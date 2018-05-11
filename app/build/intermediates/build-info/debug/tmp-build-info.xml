@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="27"
+    build-mode="FULL"
+    density="xhdpi"
+    format="10"
+    plugin-version="3.0.1"
+    timestamp="1526030078960"
+    token="6879066697904358215"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4513" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1426" />
+    <task
+        name="verifier"
+        duration="1641" />
+
+    <artifact
+        location="C:\Users\USER\Desktop\MyApp\Skychat\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+</instant-run>
